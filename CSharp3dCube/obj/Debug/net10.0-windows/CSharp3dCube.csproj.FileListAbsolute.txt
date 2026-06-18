@@ -1,0 +1,14 @@
+c:\Users\FONKER\Documents\New folder\CSharp3dCube\CSharp3dCube\obj\Debug\net10.0-windows\CSharp3dCube.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\FONKER\Documents\New folder\CSharp3dCube\CSharp3dCube\obj\Debug\net10.0-windows\CSharp3dCube.AssemblyInfoInputs.cache
+c:\Users\FONKER\Documents\New folder\CSharp3dCube\CSharp3dCube\obj\Debug\net10.0-windows\CSharp3dCube.AssemblyInfo.cs
+c:\Users\FONKER\Documents\New folder\CSharp3dCube\CSharp3dCube\obj\Debug\net10.0-windows\CSharp3dCube.csproj.CoreCompileInputs.cache
+c:\Users\FONKER\Documents\New folder\CSharp3dCube\CSharp3dCube\bin\Debug\net10.0-windows\CSharp3dCube.exe
+C:\Users\FONKER\Documents\New folder\CSharp3dCube\CSharp3dCube\bin\Debug\net10.0-windows\CSharp3dCube.deps.json
+C:\Users\FONKER\Documents\New folder\CSharp3dCube\CSharp3dCube\bin\Debug\net10.0-windows\CSharp3dCube.runtimeconfig.json
+c:\Users\FONKER\Documents\New folder\CSharp3dCube\CSharp3dCube\bin\Debug\net10.0-windows\CSharp3dCube.dll
+c:\Users\FONKER\Documents\New folder\CSharp3dCube\CSharp3dCube\bin\Debug\net10.0-windows\CSharp3dCube.pdb
+c:\Users\FONKER\Documents\New folder\CSharp3dCube\CSharp3dCube\obj\Debug\net10.0-windows\CSharp3dCube.dll
+c:\Users\FONKER\Documents\New folder\CSharp3dCube\CSharp3dCube\obj\Debug\net10.0-windows\refint\CSharp3dCube.dll
+c:\Users\FONKER\Documents\New folder\CSharp3dCube\CSharp3dCube\obj\Debug\net10.0-windows\CSharp3dCube.pdb
+C:\Users\FONKER\Documents\New folder\CSharp3dCube\CSharp3dCube\obj\Debug\net10.0-windows\CSharp3dCube.genruntimeconfig.cache
+C:\Users\FONKER\Documents\New folder\CSharp3dCube\CSharp3dCube\obj\Debug\net10.0-windows\ref\CSharp3dCube.dll
